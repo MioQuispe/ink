@@ -1,6 +1,6 @@
 {
 	"name": "react-17-ink",
-	"version": "3.0.11",
+	"version": "3.0.12",
 	"description": "React for CLI",
 	"license": "MIT",
 	"repository": "vadimdemedes/ink",
@@ -49,6 +49,7 @@
 		"is-ci": "^2.0.0",
 		"lodash": "^4.17.20",
 		"patch-console": "^1.0.0",
+		"react": "^16.9.0",
 		"react-devtools-core": "^4.6.0",
 		"react-reconciler": "^0.24.0",
 		"scheduler": "^0.18.0",
@@ -92,7 +93,6 @@
 		"node-pty": "^0.9.0",
 		"p-queue": "^6.2.1",
 		"prettier": "^2.0.4",
-		"react": "^16.9.0",
 		"sinon": "^8.1.1",
 		"strip-ansi": "^6.0.0",
 		"svg-term-cli": "^2.1.1",
