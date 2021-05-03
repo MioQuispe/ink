@@ -1,5 +1,5 @@
 {
-	"name": "ink",
+	"name": "react-17-ink",
 	"version": "3.0.8",
 	"description": "React for CLI",
 	"license": "MIT",
@@ -99,10 +99,6 @@
 		"ts-node": "7.0.0",
 		"typescript": "^3.8.3",
 		"xo": "^0.28.0"
-	},
-	"peerDependencies": {
-		"@types/react": ">=16.8.0",
-		"react": ">=16.8.0"
 	},
 	"peerDependenciesMeta": {
 		"@types/react": {
