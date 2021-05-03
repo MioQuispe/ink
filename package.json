@@ -1,6 +1,6 @@
 {
 	"name": "react-17-ink",
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"description": "React for CLI",
 	"license": "MIT",
 	"repository": "vadimdemedes/ink",
@@ -50,7 +50,7 @@
 		"lodash": "^4.17.20",
 		"patch-console": "^1.0.0",
 		"react-devtools-core": "^4.6.0",
-		"react-reconciler": "^0.24.0",
+		"react-reconciler": "^0.26.1",
 		"scheduler": "^0.18.0",
 		"signal-exit": "^3.0.2",
 		"slice-ansi": "^3.0.0",
